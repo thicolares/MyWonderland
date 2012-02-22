@@ -12,7 +12,8 @@
 	    echo $this->Form->create('Place', array(
 		    'inputDefaults' => array(
 		        'label' => false,
-		        'div' => false
+		        'div' => false,
+				'class' => 'form-inline'
 		    ),
 			'type' => 'post',
 			'class' => 'pull-left',
@@ -33,7 +34,7 @@
 			'placeholder' => __('Type Your Last.FM username')
 		));
 		//echo $this->Form->submit('to uke');
-		echo '<br>';
+
 		echo ' ' . $this->Form->button(__('Find My Wonderland'), array(
 			'type' => 'submit',
 			'class' => 'btn btn-large btn-danger'
