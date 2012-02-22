@@ -1,0 +1,18 @@
+#flags{padding-bottom:20px;clear:both; margin-top:10px;}
+#flags span{background:transparent url('../img/sprite_flags.gif') no-repeat 0 0; display:block; float:left; height:20px; margin-right:3px; text-indent:-9999px; width:42px}
+#flags #flag_visa{background-position:-42px 0}
+#flags #flag_mastercard{background-position:-84px 0}
+#flags #flag_diners{background-position:-126px 0}
+#flags #flag_americanexpress{background-position:-168px 0}
+#flags #flag_hipercard{background-position:-210px 0}
+#flags #flag_aura{background-position:-252px 0}
+#flags #flag_elo{background-position:-294px 0}
+#flags #flag_plenocard{background-position:-336px 0}
+#flags #flag_oipaggo{background-position:-378px 0}
+#flags #flag_bradesco{background-position:-420px 0}
+#flags #flag_itau{background-position:-462px 0}
+#flags #flag_bb{background-position:-504px 0}
+#flags #flag_banrisul{background-position:-546px 0}
+#flags #flag_hsbc{background-position:-588px 0}
+#flags #flag_boleto{background-position:-630px 0; margin-right:0}
+#ferramentas #flags{margin-left:-11px} /*Apenas para ferramentas de divulgação*/

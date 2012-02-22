@@ -1,0 +1,22 @@
+/**
+ * Header
+ */
+#header { width: auto; font-size: 11px; background-color: #00557D; padding: 3px 0px 3px 0px; color: #8bb5c9; border-bottom: 1px solid #377491; }
+#header a { color: white; text-decoration: underline; }
+#header a:hover { color: #ffcc00; }
+#header span {  }
+#header .header-right { text-align: right; }
+#nav-container {background:#003249;}
+
+#header-site { width: auto; font-size: 11px; background-color: #b0c743; padding: 3px 0px 3px 0px; color: #4f5b0b; border-bottom: 1px solid #fff; }
+#header-site a { color: #4f5b0b; text-decoration: underline; }
+#header-site a:hover { color: #4f5b0b; text-decoration: none; }
+
+#nav ul li a:hover,
+#nav ul li.sfHover > a { background: #00557D; }
+
+#nav ul li a.selected:hover { background: #004a6b;}
+#nav ul li ul li a:hover,
+#nav ul li.sfHover > a { background: #00557D; }
+#nav ul li ul li { background: #004a6b; }
+#nav ul li ul li.sfHover > a { background: #003249; }

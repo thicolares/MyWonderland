@@ -1,0 +1,1450 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-01-24 22:40-0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AppController.php:157
+msgid "Did you really think you are allowed to see that?"
+msgstr ""
+
+#: Controller/AppController.php:165
+msgid "Username or password are incorrect."
+msgstr ""
+
+#: Controller/AppController.php:520;542
+#: Plugin/Paper/Controller/PapersController.php:791
+msgid "Error:"
+msgstr ""
+
+#: Controller/AppController.php:618;695;726
+msgid "Error code: %d."
+msgstr ""
+
+#: Controller/AppController.php:621;731
+#: Plugin/Registration/Controller/BroadcastsController.php:192
+#: Plugin/Registration/Controller/RegistrationsController.php:392
+msgid "Check for validation errors."
+msgstr ""
+
+#: Controller/AppController.php:657;737
+msgid "Error could not be solved"
+msgstr ""
+
+#: Controller/AppController.php:729
+msgid "Error while saving."
+msgstr ""
+
+#: Controller/AppController.php:779
+msgid "%s has been successfully added."
+msgstr ""
+
+#: Controller/AppController.php:788;939
+#: Plugin/Registration/Controller/ExemptionsController.php:139;155
+msgid "Error while saving"
+msgstr ""
+
+#: Controller/AppController.php:794
+msgid "Error while loading form"
+msgstr ""
+
+#: Controller/AppController.php:895
+#: Plugin/Paper/Controller/EvaluationsController.php:135
+#: Plugin/Paper/Controller/PapersController.php:706
+#: Plugin/Registration/Controller/RegistrationsController.php:514
+msgid "Invalid ID"
+msgstr ""
+
+#: Controller/AppController.php:932
+msgid "Changes has been successfully saved."
+msgstr ""
+
+#: Controller/AppController.php:950
+msgid "Error reading item"
+msgstr ""
+
+#: Controller/AppController.php:986
+msgid "ID can not be null."
+msgstr ""
+
+#: Controller/AppController.php:1001
+msgid "Invalid %s."
+msgstr ""
+
+#: Controller/AppController.php:1010
+msgid "Item has been successfully deleted."
+msgstr ""
+
+#: Controller/AppController.php:1015
+msgid "Item was no deleted. Error while deleting item."
+msgstr ""
+
+#: Controller/AppController.php:1018
+msgid "Error while deleting"
+msgstr ""
+
+#: Controller/SystemsController.php:25;29;33
+#: View/Elements/admin/header.ctp:5
+#: View/Elements/profile/header.ctp:5
+msgid "Dashboard"
+msgstr ""
+
+#: Controller/UsersController.php:23
+msgid "User"
+msgstr ""
+
+#: Controller/UsersController.php:24
+msgid "Users"
+msgstr ""
+
+#: Controller/UsersController.php:27
+#: Plugin/Paper/Controller/EvaluationsController.php:51
+#: Plugin/Paper/Controller/PapersController.php:66;85;765
+#: Plugin/Registration/Controller/ExemptionsController.php:48;49
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:59
+#: Plugin/Registration/Controller/RegistrationTypesController.php:55
+#: Plugin/Registration/Controller/RegistrationsController.php:84;85
+msgid "ID"
+msgstr ""
+
+#: Controller/UsersController.php:28
+#: Plugin/Paper/Controller/EvaluationsController.php:52
+#: Plugin/Paper/Controller/PapersController.php:67;86;766
+#: Plugin/Paper/View/Papers/profile_add.ctp:118;170
+#: Plugin/Paper/View/Papers/profile_edit.ctp:130;180
+#: Plugin/Registration/Controller/ExemptionsController.php:50
+#: Plugin/Registration/Controller/RegistrationTypesController.php:56
+#: Plugin/Registration/Controller/RegistrationsController.php:86
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:11
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:13
+msgid "Name"
+msgstr ""
+
+#: Controller/UsersController.php:29
+#: View/Elements/user/form_part_access.ctp:8
+msgid "Email"
+msgstr ""
+
+#: Controller/UsersController.php:30
+#: View/Users/admin_add.ctp:12
+#: View/Users/admin_edit.ctp:13
+msgid "Role"
+msgstr ""
+
+#: Controller/UsersController.php:31
+msgid "Status"
+msgstr ""
+
+#: Controller/UsersController.php:70
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:73;109
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:101;141
+msgid "Invalid user."
+msgstr ""
+
+#: Controller/UsersController.php:106
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:134
+msgid "Method not allowed."
+msgstr ""
+
+#: Controller/UsersController.php:145
+msgid "User deleted."
+msgstr ""
+
+#: Controller/UsersController.php:148
+msgid "User was not deleted."
+msgstr ""
+
+#: Controller/UsersController.php:164
+msgid "You has already logged in."
+msgstr ""
+
+#: Controller/UsersController.php:243
+msgid "Password has been reset."
+msgstr ""
+
+#: Controller/UsersController.php:250
+msgid "Password could not be reset. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:253
+msgid "Password must have at least 6 characters. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:256
+msgid "Current password did not match. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:259
+msgid "Password could not be empty! Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:262
+msgid "New password and its confirmation did not match. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:265
+msgid "User could no be found."
+msgstr ""
+
+#: Controller/UsersController.php:292
+msgid "Reset Password Requestment"
+msgstr ""
+
+#: Controller/UsersController.php:311;388
+msgid "The code informed at the end of this form was mistyped!"
+msgstr ""
+
+#: Controller/UsersController.php:320
+msgid "E-mail could not be found."
+msgstr ""
+
+#: Controller/UsersController.php:336
+msgid "An error occurred. Please try again or contact the administrator."
+msgstr ""
+
+#: Controller/UsersController.php:344
+msgid "Error occurred while sending an e-mail. Please try again or contact the administrator."
+msgstr ""
+
+#: Controller/UsersController.php:347
+msgid "An E-mail has been sent to <strong>%s</strong> with instructions to recover your password. "
+msgstr ""
+
+#: Controller/UsersController.php:372
+msgid "Invalid Link. Have you entered the right link?"
+msgstr ""
+
+#: Controller/UsersController.php:381
+msgid "Invalid Verification Code. Make sure that your code has not expired."
+msgstr ""
+
+#: Controller/UsersController.php:397
+msgid "Your password has successfully changed!"
+msgstr ""
+
+#: Controller/UsersController.php:400
+msgid "Error occurred when chanding your password."
+msgstr ""
+
+#: Controller/UsersController.php:423
+msgid "You have successfully logged out."
+msgstr ""
+
+#: Plugin/Paper/Controller/EvaluationsController.php:33
+#: Plugin/Paper/Controller/PapersController.php:616
+msgid "Evaluations"
+msgstr ""
+
+#: Plugin/Paper/Controller/EvaluationsController.php:34
+#: Plugin/Paper/Controller/PapersController.php:617
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:63;66
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:82;91
+msgid "Evaluation"
+msgstr ""
+
+#: Plugin/Paper/Controller/EvaluationsController.php:53
+#: Plugin/Paper/Controller/PapersController.php:69;88;767
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:15
+#: Plugin/Paper/View/Papers/profile_add.ctp:33
+#: Plugin/Paper/View/Papers/profile_edit.ctp:35
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:57
+msgid "Paper Type"
+msgstr ""
+
+#: Plugin/Paper/Controller/EvaluationsController.php:54
+#: Plugin/Paper/Controller/PapersController.php:70;89;769
+msgid "Paper Status"
+msgstr ""
+
+#: Plugin/Paper/Controller/EvaluationsController.php:220
+#: Plugin/Paper/Controller/PapersController.php:425
+msgid "There is a new paper waiting for you evaluation"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:37
+msgid "Paper"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:38
+#: View/Elements/admin/navigation.ctp:59
+msgid "Papers"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:90
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:48
+#: Plugin/Paper/View/Papers/profile_add.ctp:91
+#: Plugin/Paper/View/Papers/profile_edit.ctp:101
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:19
+msgid "Author"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:92
+#: View/Users/admin_add.ctp:17
+#: View/Users/admin_edit.ctp:18
+msgid "E-mail"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:93;94;95;96
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:54
+#: Plugin/Paper/View/Papers/profile_add.ctp:130
+#: Plugin/Paper/View/Papers/profile_edit.ctp:140
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:34;38
+msgid "Co-Author"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:97
+msgid "Submited at"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:98
+msgid "Last modification"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:148
+msgid "The deadline for submit papers is terminated. Your are no able to submit or edit a paper."
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:178
+msgid "You have already exceeded the limit for submited papers. Each registered may submit up to two (2) proposals for workshop and two (2) proposals for short course."
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:278
+msgid "The author's and co-author's CPF or Passport can not be repeated."
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:451
+msgid "There are new papers waiting for you evaluation"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:690
+msgid "Your Paper Has Been Evaluated"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:728
+msgid "This Paper has been already evaluated"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:768
+msgid "Paper Status ID"
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:816
+msgid "This Paper is Under Evaluation and can not be modified."
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:819
+msgid "This Paper has already been evaluated and can not be modified."
+msgstr ""
+
+#: Plugin/Paper/Controller/PapersController.php:873
+msgid "There is no appraiser to be assign. You must register appraisers before continue."
+msgstr ""
+
+#: Plugin/Paper/View/Elements/paper/paper_report.ctp:3
+msgid "Summarized Paper Report"
+msgstr ""
+
+#: Plugin/Paper/View/Elements/paper/paper_report.ctp:5
+#: Plugin/Registration/Controller/ExemptionsController.php:52
+#: Plugin/Registration/Controller/RegistrationsController.php:91
+#: Plugin/Registration/View/Elements/registration/payment_status_report.ctp:5
+#: Plugin/Registration/View/Payments/profile_index.ctp:75
+msgid "Payment Entity"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:3
+#: Plugin/Paper/View/Papers/profile_add.ctp:3
+#: Plugin/Paper/View/Papers/profile_edit.ctp:2
+#: View/Users/add.ctp:13
+msgid "Submit"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:11
+#: Plugin/Paper/View/Papers/profile_add.ctp:29
+#: Plugin/Paper/View/Papers/profile_edit.ctp:31
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:3
+msgid "Paper Information"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:19;23
+#: Plugin/Paper/View/Papers/profile_add.ctp:41
+#: Plugin/Paper/View/Papers/profile_edit.ctp:43
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:8
+msgid "Title"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:32
+#: Plugin/Paper/View/Papers/profile_add.ctp:61
+#: Plugin/Paper/View/Papers/profile_edit.ctp:64
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:70
+msgid "Research Line"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:37
+#: Plugin/Paper/View/Evaluations/profile_index.ctp:6
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:74;76
+#: Plugin/Paper/View/Papers/profile_evaluations.ctp:12
+#: Plugin/Paper/View/Papers/profile_index.ctp:12
+msgid "Download Paper"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:45
+#: Plugin/Paper/View/Papers/profile_add.ctp:83
+#: Plugin/Paper/View/Papers/profile_edit.ctp:96
+msgid "Authors and Co-Authors"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:79
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:104
+msgid "Comments"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:88
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:109
+msgid "Submit Evaluation"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_evaluate.ctp:89
+#: Plugin/Paper/View/Papers/admin_assign.ctp:50
+#: Plugin/Paper/View/Papers/profile_add.ctp:196
+#: Plugin/Paper/View/Papers/profile_edit.ctp:207
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:110
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:91
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:101
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:38
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:40
+#: Plugin/Registration/View/Registrations/admin_add.ctp:18
+#: Plugin/Registration/View/Registrations/admin_edit.ctp:18
+#: Plugin/Registration/View/Registrations/index.ctp:41
+#: View/Profiles/profile_edit.ctp:12
+#: View/Users/admin_add.ctp:21
+#: View/Users/admin_edit.ctp:22
+#: View/Users/profile_reset_password.ctp:30
+#: View/Users/request_reset_password.ctp:32
+#: View/Users/reset_password.ctp:33
+msgid "Cancel"
+msgstr ""
+
+#: Plugin/Paper/View/Evaluations/profile_index.ctp:11
+#: Plugin/Paper/View/Papers/profile_evaluations.ctp:6
+msgid "Evaluate"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:3
+#: View/Elements/admin/navigation.ctp:62
+msgid "Assign Papers"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:21
+msgid "Each paper is already assigned to an appraiser"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:27
+msgid "There is"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:28
+msgid "1 paper not assigned to an appraiser"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:34
+msgid "There are"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:35
+msgid "%d papers not assigned to an appraiser"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/admin_assign.ctp:44
+msgid "Assign These Papers to Appraisers"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:6
+#: Plugin/Paper/View/Papers/profile_edit.ctp:5
+msgid "<strong>Before you begin,</strong> make sure you are familiar with the following documents:"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:15
+#: Plugin/Paper/View/Papers/profile_edit.ctp:14
+msgid "<strong>To be evaluated,</strong> your work MUST follow the format below. It is mandatory."
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:55
+#: Plugin/Paper/View/Papers/profile_edit.ctp:58
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:12
+msgid "Abstract"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:76
+#: Plugin/Paper/View/Papers/profile_edit.ctp:79
+msgid "Paper File"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:77
+#: Plugin/Paper/View/Papers/profile_edit.ctp:85
+msgid "Only Word 2003 (.doc) format file is allowed. Maximum allowed file size: %d mb<br> Remember, it's mandatory to follow the %s."
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:118;171
+#: Plugin/Paper/View/Papers/profile_edit.ctp:130;181
+msgid "CPF or Passport"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:119;172
+#: Plugin/Paper/View/Papers/profile_edit.ctp:131;182
+msgid "Ask for exemption"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:120
+msgid "Do not use punctuation in CPF or Passport, such as hyphen, points etc."
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:173
+#: Plugin/Paper/View/Papers/profile_edit.ctp:132;183
+msgid "Do not use punctuation. You MUST tell us the CPF in order to ask for exemption."
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:188
+#: Plugin/Paper/View/Papers/profile_edit.ctp:199
+msgid "Do not ask for exemption"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_add.ctp:195
+#: Plugin/Paper/View/Papers/profile_edit.ctp:206
+#: View/Elements/profile/navigation.ctp:13
+msgid "Submit Paper"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_edit.ctp:82
+msgid "Download Current File"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:35
+msgid "There is no co-author."
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_evaluate.ctp:43
+msgid "Co-Authors"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_index.ctp:6
+msgid "Evaluation Result"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_index.ctp:17
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:19
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:3
+#: Plugin/Registration/View/Registrations/admin_index.ctp:17
+#: View/Helper/AdminIndexListHelper.php:278
+msgid "Edit"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_index.ctp:23
+#: View/Helper/AdminIndexListHelper.php:285
+msgid "Delete"
+msgstr ""
+
+#: Plugin/Paper/View/Papers/profile_index.ctp:26
+#: View/Helper/AdminIndexListHelper.php:290
+msgid "This action can not be undone! Are you sure?"
+msgstr ""
+
+#: Plugin/Registration/Controller/BroadcastsController.php:16
+#: View/Elements/admin/navigation.ctp:68
+msgid "Broadcast"
+msgstr ""
+
+#: Plugin/Registration/Controller/BroadcastsController.php:17
+msgid "Broadcasts"
+msgstr ""
+
+#: Plugin/Registration/Controller/BroadcastsController.php:174
+msgid "%d e-mails has been sent."
+msgstr ""
+
+#: Plugin/Registration/Controller/BroadcastsController.php:176
+msgid "No one message has been sent."
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:44
+msgid "Exemption Request"
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:45
+#: View/Elements/admin/navigation.ctp:37
+msgid "Exemption Requests"
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:51
+#: Plugin/Registration/Controller/RegistrationsController.php:90
+msgid "Document"
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:53
+#: Plugin/Registration/Controller/RegistrationsController.php:92
+#: Plugin/Registration/View/Elements/registration/form_part_registration_admin.ctp:29
+#: Plugin/Registration/View/Payments/profile_index.ctp:88
+msgid "Payment Method"
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:54
+#: Plugin/Registration/Controller/RegistrationsController.php:93
+#: Plugin/Registration/View/Elements/registration/form_part_registration_admin.ctp:34
+#: Plugin/Registration/View/Payments/profile_index.ctp:69
+msgid "Payment Status"
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:137
+msgid "Exemption granted"
+msgstr ""
+
+#: Plugin/Registration/Controller/ExemptionsController.php:153
+msgid "Exemption denied"
+msgstr ""
+
+#: Plugin/Registration/Controller/PaymentsController.php:611
+msgid "%s Registration has been updated."
+msgstr ""
+
+#: Plugin/Registration/Controller/PaymentsController.php:613;655
+msgid "Error while saving Payment Logs."
+msgstr ""
+
+#: Plugin/Registration/Controller/PaymentsController.php:617;659;766
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: Plugin/Registration/Controller/PaymentsController.php:653
+msgid "%s Payment Logs has been saved."
+msgstr ""
+
+#: Plugin/Registration/Controller/PaymentsController.php:763
+msgid "<strong>Updated transaction(s): %d</strong><br>Transaction(s) could be updated due to an error: %d<br> Already updated transaction(s): %d<br> Total of transactions: %d"
+msgstr ""
+
+#: Plugin/Registration/Controller/PaymentsController.php:1048
+msgid "Registration and Payment confirmed"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:45
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:49
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:57
+msgid "Registration Period"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:46
+#: View/Elements/admin/navigation.ctp:41
+msgid "Registration Periods"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:60
+msgid "Begins on"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:61
+msgid "Ends on"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:62
+#: Plugin/Registration/Controller/RegistrationTypesController.php:57
+msgid "Off site"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:112
+msgid "Invalid date. Please, check the form and correct date values."
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:159
+msgid "Error while trying to update Registrations Main Variations"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationPeriodsController.php:180
+msgid "Error while trying to load Registrations Types"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationTypesController.php:46
+#: Plugin/Registration/View/Payments/profile_index.ctp:47
+msgid "Registration Type"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationTypesController.php:47
+#: View/Elements/admin/navigation.ctp:47
+msgid "Registration Types"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationTypesController.php:58
+msgid "Proof need"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:45
+#: Plugin/Registration/View/Elements/registration/form_part_registration.ctp:2
+#: Plugin/Registration/View/Elements/registration/form_part_registration_admin.ctp:2
+msgid "Registration"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:46
+#: View/Elements/admin/navigation.ctp:26
+msgid "Registrations"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:87
+msgid "DDD"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:88
+#: View/Elements/profile/form_part_address_phone.ctp:66
+msgid "Mobile"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:89
+msgid "E-Mail"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:305
+msgid " to "
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:331
+msgid "If you pretend to register an other person, user \"Add Register (Consolidate)\" at Administrative Panel."
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:335
+msgid "You has already registered!"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:391
+msgid "You must choose registration option."
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:524
+msgid "Registration was successful. <strong>Now you must to make the payment to ensure your entry.</strong>"
+msgstr ""
+
+#: Plugin/Registration/Controller/RegistrationsController.php:555;595
+msgid "Welcome! See Instructions to Complete Your Registration"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:2
+msgid "Do A Broadcast"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:6
+msgid "* Means the box must be filled in before sending"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:10
+msgid "Send to"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:12
+msgid "Payment Status (How many registrations on this status), The Payment Entity"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:30
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:13
+msgid "Subject"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:31
+msgid "The text <em><strong>%s</strong></em> will be automatically placed in the beginning of the subject."
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:35
+msgid "Wildcards"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:36
+msgid "Name of registered"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:37
+msgid "Copy and Past the wildcards above into \"Message\" area to write usefull data."
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:40
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:16
+msgid "Message"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:46
+msgid "The default signature above will be appended at the end of the message."
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:53
+msgid "Preview Message"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_index.ctp:54
+msgid "Discard"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:4
+msgid "Preview Broadcast Message"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:10
+msgid "Information About Recipients"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:11
+msgid "Message will be sent to <em><strong>\"%s\"</strong></em>."
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:29
+msgid "Send Message"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:38
+msgid "Edit Message"
+msgstr ""
+
+#: Plugin/Registration/View/Broadcasts/admin_preview.ctp:41
+msgid "Cancel (will discard message)"
+msgstr ""
+
+#: Plugin/Registration/View/Elements/registration/form_part_registration.ctp:10
+msgid "Choose one option"
+msgstr ""
+
+#: Plugin/Registration/View/Elements/registration/form_part_registration.ctp:30
+#: Plugin/Registration/View/Emails/html/registration/welcome.ctp:15
+#: View/Elements/default/navigation.ctp:19
+#: View/Emails/html/welcome.ctp:6;10
+msgid "Prices and Deadlines"
+msgstr ""
+
+#: Plugin/Registration/View/Elements/registration/form_part_registration_admin.ctp:24
+msgid "Registration Options"
+msgstr ""
+
+#: Plugin/Registration/View/Elements/registration/form_part_registration_admin.ctp:24;29;34
+msgid "(choose an option)"
+msgstr ""
+
+#: Plugin/Registration/View/Elements/registration/payment_status_report.ctp:3
+msgid "Summarized Payment Status Report"
+msgstr ""
+
+#: Plugin/Registration/View/Exemptions/admin_index.ctp:7
+msgid "Allow"
+msgstr ""
+
+#: Plugin/Registration/View/Exemptions/admin_index.ctp:12
+msgid "Deny"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:4
+#: View/Elements/profile/navigation.ctp:29
+msgid "Payment"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:10
+msgid "login at your account at PagSeguro."
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:10
+msgid "(open new window)"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:14
+msgid "<strong>PLEASE NOTE!</strong> The status of payments made through PagSeguro <strong>may take 6 hours to 1 day to be updated</strong> on this page. <br>\nFor real-time information, please %s"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:41
+msgid "Items Purchased"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:42
+msgid "Registration at the <strong>%s</strong>"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:53
+msgid "Total Amount"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:56
+msgid "Your Registration Type is exempt. But you must show your receipt at the event site."
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:58
+msgid "Price valid up to"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:60;171;175
+msgid "at"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:81
+msgid "Generate Duplicate at PagSeguro (open a new window)"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:94
+msgid "Undefined"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:95
+msgid "Probably the payment has not yet been started."
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:113
+msgid "Pay with PagSeguro"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:134
+msgid "Restart Payment with PagSeguro"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:138
+msgid "Has the billet prescribed?"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:180
+msgid "You cannot pay for your registration now. The deadline for payment, with current price, expired. You can pay between %s and %s. The new price of your registration will be %s"
+msgstr ""
+
+#: Plugin/Registration/View/Payments/profile_index.ctp:183
+msgid "You can no longer pay by the site. The deadline for payments expired. Please, contact the event organizers."
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:16
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:3
+#: View/Helper/AdminIndexListHelper.php:198
+msgid "Add"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:23
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:28
+msgid "Period Range"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:48
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:56
+msgid "to"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:63
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:74
+msgid "Values in Brazilian Real. Example: 150,00"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:76
+msgid "Main Registration. Prices for this period"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:85
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:96
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:19
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:21
+msgid "To be done in offline mode"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_add.ctp:90
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:100
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:37
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:39
+#: View/Users/admin_add.ctp:20
+msgid "Save"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationPeriods/admin_edit.ctp:89
+msgid "Main Registration"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:20
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:22
+msgid "If checked, this type of application can not be conducted through the site. Example: group entries."
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:29
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:31
+msgid "Proof Needed"
+msgstr ""
+
+#: Plugin/Registration/View/RegistrationTypes/admin_add.ctp:30
+#: Plugin/Registration/View/RegistrationTypes/admin_edit.ctp:32
+msgid "If checked, the user must provide a document proving that belongs to this category."
+msgstr ""
+
+#: Plugin/Registration/View/Registrations/admin_add.ctp:17
+msgid "Perform Register"
+msgstr ""
+
+#: Plugin/Registration/View/Registrations/admin_edit.ctp:17
+msgid "Edit Register"
+msgstr ""
+
+#: Plugin/Registration/View/Registrations/index.ctp:40
+msgid " Register"
+msgstr ""
+
+#: View/Elements/footer.ctp:2
+msgid "Powered by %s"
+msgstr ""
+
+#: View/Elements/admin/header.ctp:7
+msgid "Visit website"
+msgstr ""
+
+#: View/Elements/admin/header.ctp:13
+#: View/Elements/profile/header.ctp:13
+msgid "You are logged in as: <strong>%s</strong>"
+msgstr ""
+
+#: View/Elements/admin/header.ctp:15
+#: View/Elements/profile/header.ctp:15
+msgid "Log out"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:6
+msgid "System Preferences"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:9
+msgid "Preferences"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:12
+msgid "Taxonomy"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:14
+msgid "List Vocabularies"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:15
+msgid "Add Vocabulary"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:29;43;49;61
+#: View/Elements/profile/navigation.ctp:12
+msgid "List"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:32
+msgid "Add Registration (Consolidation)"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:44
+msgid "Add Registration Period"
+msgstr ""
+
+#: View/Elements/admin/navigation.ctp:50
+msgid "Add Registration Type"
+msgstr ""
+
+#: View/Elements/default/navigation.ctp:4
+msgid "Home"
+msgstr ""
+
+#: View/Elements/default/navigation.ctp:12
+#: View/Pages/home.ctp:9
+msgid "Register"
+msgstr ""
+
+#: View/Elements/default/navigation.ctp:26
+#: View/Elements/user/login.ctp:2;6;9
+#: View/Users/login.ctp:2;6;9
+msgid "Login"
+msgstr ""
+
+#: View/Elements/default/navigation.ctp:33
+msgid "Contact"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:2
+msgid "Address and Phone Numbers"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:6
+msgid "Zipcode"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:11
+msgid "Only numbers"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:19
+msgid "Address"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:21
+msgid "Street, Avenue, Square, etc"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:28
+msgid "Complement"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:36
+msgid "Number"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:45
+msgid "State"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:45
+msgid "(choose a state)"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:51
+msgid "City"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:59
+msgid "Neighborhood"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:71
+msgid "Residential Phone"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:75
+msgid "Business Phone"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:79
+msgid "Fax"
+msgstr ""
+
+#: View/Elements/profile/form_part_address_phone.ctp:103
+msgid "DDD and Phone Number"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:2
+msgid "Personal Information"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:7
+#: View/Users/admin_add.ctp:15
+#: View/Users/admin_edit.ctp:16
+msgid "Full Name"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:12
+msgid "CPF"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:19
+msgid "Male"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:20
+msgid "Female"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:25
+msgid "Gender"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:25
+msgid "(choose a gender)"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:32
+msgid "Institution/Company"
+msgstr ""
+
+#: View/Elements/profile/form_part_personal.ctp:40
+msgid "Exibition Name"
+msgstr ""
+
+#: View/Elements/profile/header.ctp:7
+msgid "Visit Registration Website"
+msgstr ""
+
+#: View/Elements/profile/navigation.ctp:7
+msgid "My Papers"
+msgstr ""
+
+#: View/Elements/profile/navigation.ctp:17
+msgid "Evaluate Papers"
+msgstr ""
+
+#: View/Elements/profile/navigation.ctp:37
+#: View/Profiles/profile_edit.ctp:2
+msgid "My Personal Data"
+msgstr ""
+
+#: View/Elements/profile/navigation.ctp:45
+#: View/Users/reset_password.ctp:10;32
+msgid "Reset Password"
+msgstr ""
+
+#: View/Elements/system/appraiser_dashboard.ctp:9
+#: View/Elements/system/profile_dashboard.ctp:31
+msgid "Envie Um Trabalho Agora!"
+msgstr ""
+
+#: View/Elements/system/profile_dashboard.ctp:11
+msgid "Pague agora e garanta sua vaga"
+msgstr ""
+
+#: View/Elements/user/form_part_access.ctp:2
+msgid "Access Information"
+msgstr ""
+
+#: View/Elements/user/form_part_access.ctp:21
+#: View/Elements/user/login.ctp:7
+#: View/Users/login.ctp:7
+msgid "Password"
+msgstr ""
+
+#: View/Elements/user/form_part_access.ctp:24
+msgid "This is not you personal E-mail password."
+msgstr ""
+
+#: View/Elements/user/form_part_access.ctp:31
+msgid "Confirm Password"
+msgstr ""
+
+#: View/Elements/user/login.ctp:10
+#: View/Users/login.ctp:10
+msgid "Forgot Password?"
+msgstr ""
+
+#: View/Helper/AdminIndexListHelper.php:238
+msgid "Actions"
+msgstr ""
+
+#: View/Helper/AdminIndexListHelper.php:263
+msgid "-"
+msgstr ""
+
+#: View/Helper/AdminIndexListHelper.php:348
+msgid "Up to now, nothing has been registered here..."
+msgstr ""
+
+#: View/Helper/AdminIndexListHelper.php:363
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: View/Helper/AdminIndexListHelper.php:398
+msgid "Yes"
+msgstr ""
+
+#: View/Helper/AdminIndexListHelper.php:399
+msgid "No"
+msgstr ""
+
+#: View/Helper/LayoutHelper.php:606
+msgid "Key"
+msgstr ""
+
+#: View/Helper/LayoutHelper.php:610
+msgid "Value"
+msgstr ""
+
+#: View/Helper/LayoutHelper.php:625
+msgid "Remove"
+msgstr ""
+
+#: View/Layouts/admin_login.ctp:21
+msgid "Back to"
+msgstr ""
+
+#: View/Profiles/profile_edit.ctp:11
+#: View/Users/admin_edit.ctp:21
+msgid "Save Changes"
+msgstr ""
+
+#: View/Users/add.ctp:4
+#: View/Users/admin_add.ctp:5
+msgid "Add User"
+msgstr ""
+
+#: View/Users/admin_add.ctp:18
+msgid "System Password"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:2
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:2
+msgid "Reset password"
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:8
+msgid "Current Password"
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:14
+#: View/Users/reset_password.ctp:14
+msgid "New Password"
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:18
+msgid "At least 6 characters! Do not use blank spaces."
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:21
+#: View/Users/reset_password.ctp:15
+msgid "Confirm"
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:25
+msgid "Please, repeat your new password to make sure I've typed it right."
+msgstr ""
+
+#: View/Users/profile_reset_password.ctp:29
+msgid "Save Password"
+msgstr ""
+
+#: View/Users/request_reset_password.ctp:8
+msgid "Recover Password"
+msgstr ""
+
+#: View/Users/request_reset_password.ctp:13
+msgid "You will receive an email with instructions to recover your password."
+msgstr ""
+
+#: View/Users/request_reset_password.ctp:21
+#: View/Users/reset_password.ctp:22
+msgid "You have mistyped the two words above."
+msgstr ""
+
+#: View/Users/request_reset_password.ctp:25
+#: View/Users/reset_password.ctp:26
+msgid "Visual Confirmation"
+msgstr ""
+
+#: View/Users/request_reset_password.ctp:31
+msgid "Request Reset Password"
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field name
+msgid "You have not entered your name."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field name
+msgid "You have not entered your last name."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field main_doc
+msgid "You have not entered your CPF."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field main_doc
+msgid "This CPF is already in use"
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field main_doc
+msgid "Please supply your CPF only with numbers."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field main_doc;validation for field main_doc
+msgid "Inform the CPF with 11 digits."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field zipcode
+msgid "You have not entered your zipcode."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field zipcode;validation for field address_number
+msgid "Only number are allowed."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field zipcode
+msgid "Zipcode must be at least 8 characters."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field zipcode
+msgid "Zipcode must be no larger than 8 characters.."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field address
+msgid "You have not entered your address."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field address_number
+msgid "You have not entered your number."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field address_number
+msgid "Number must be no larger than 5 characters.."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field state
+msgid "You have not entered your state."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field city
+msgid "You have not entered your city."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field neighborhood
+msgid "You have not entered your neighborhood."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile
+msgid "You have not entered your mobile."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile
+msgid "Only number are allowed on Phone Field."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile
+msgid "Mobile must be at least 8 characters."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile
+msgid "Mobile must be no larger than 8 characters."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile_ddd
+msgid "You have not entered your ddd."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile_ddd
+msgid "Only number are allowed on DDD field."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile_ddd
+msgid "DDD must be at least 2 characters."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/Profile.php:validation for field mobile_ddd
+msgid "DDD must be no larger than 2 characters."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/User.php:validation for field email
+msgid "Por favor, utilize o formato contato@exemplo.com.br"
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/User.php:validation for field email
+msgid "This email is already in use"
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/User.php:validation for field role
+msgid "Please enter a valid role"
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/User.php:validation for field password
+msgid "As senhas devem ser idênticas."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Model/User.php:validation for field password;validation for field confirm_password
+msgid "Este campo deve ser preenchido."
+msgstr ""
+

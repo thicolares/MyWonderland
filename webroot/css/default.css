@@ -1,0 +1,10 @@
+img.avatar {
+    -moz-box-shadow: 4px 4px 20px #ccc;
+    -webkit-box-shadow: 4px 4px 20px #ccc;
+    -webkit-transform: rotate(-5deg); 
+    -moz-transform: rotate(-5deg);
+
+}
+
+
+

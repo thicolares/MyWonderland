@@ -1,0 +1,337 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-12-14 19:12+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller\ExemptionsController.php:44
+msgid "Exemption Request"
+msgstr ""
+
+#: Controller\ExemptionsController.php:45
+msgid "Exemption Requests"
+msgstr ""
+
+#: Controller\ExemptionsController.php:48;49
+#: Controller\RegistrationPeriodsController.php:59
+#: Controller\RegistrationTypesController.php:55
+#: Controller\RegistrationsController.php:82;83
+msgid "ID"
+msgstr ""
+
+#: Controller\ExemptionsController.php:50
+#: Controller\RegistrationTypesController.php:56
+#: Controller\RegistrationsController.php:84
+#: View\RegistrationTypes\admin_add.ctp:11
+#: View\RegistrationTypes\admin_edit.ctp:13
+msgid "Name"
+msgstr ""
+
+#: Controller\ExemptionsController.php:51
+#: Controller\RegistrationsController.php:85
+msgid "Document"
+msgstr ""
+
+#: Controller\ExemptionsController.php:52
+#: Controller\RegistrationsController.php:86
+#: View\Elements\registration\payment_status_report.ctp:5
+#: View\Payments\profile_index.ctp:62
+msgid "Payment Entity"
+msgstr ""
+
+#: Controller\ExemptionsController.php:53
+#: Controller\RegistrationsController.php:87
+#: View\Elements\registration\form_part_registration_admin.ctp:29
+#: View\Payments\profile_index.ctp:69
+msgid "Payment Method"
+msgstr ""
+
+#: Controller\ExemptionsController.php:54
+#: Controller\RegistrationsController.php:88
+#: View\Elements\registration\form_part_registration_admin.ctp:34
+#: View\Payments\profile_index.ctp:56
+msgid "Payment Status"
+msgstr ""
+
+#: Controller\ExemptionsController.php:137
+msgid "Exemption granted"
+msgstr ""
+
+#: Controller\ExemptionsController.php:139;155
+msgid "Error while saving"
+msgstr ""
+
+#: Controller\ExemptionsController.php:153
+msgid "Exemption denied"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:45
+#: View\RegistrationPeriods\admin_add.ctp:49
+#: View\RegistrationPeriods\admin_edit.ctp:57
+msgid "Registration Period"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:46
+msgid "Registration Periods"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:60
+msgid "Begins on"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:61
+msgid "Ends on"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:62
+#: Controller\RegistrationTypesController.php:57
+msgid "Off site"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:112
+msgid "Invalid date. Please, check the form and correct date values."
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:159
+msgid "Error while trying to update Registrations Main Variations"
+msgstr ""
+
+#: Controller\RegistrationPeriodsController.php:180
+msgid "Error while trying to load Registrations Types"
+msgstr ""
+
+#: Controller\RegistrationTypesController.php:46
+#: View\Payments\profile_index.ctp:34
+msgid "Registration Type"
+msgstr ""
+
+#: Controller\RegistrationTypesController.php:47
+msgid "Registration Types"
+msgstr ""
+
+#: Controller\RegistrationTypesController.php:58
+msgid "Proof need"
+msgstr ""
+
+#: Controller\RegistrationsController.php:45
+#: View\Elements\registration\form_part_registration.ctp:2
+#: View\Elements\registration\form_part_registration_admin.ctp:2
+msgid "Registration"
+msgstr ""
+
+#: Controller\RegistrationsController.php:46
+msgid "Registrations"
+msgstr ""
+
+#: Controller\RegistrationsController.php:300
+msgid " to "
+msgstr ""
+
+#: Controller\RegistrationsController.php:326
+msgid "If you pretend to register an other person, user \"Add Register (Consolidate)\" at Administrative Panel."
+msgstr ""
+
+#: Controller\RegistrationsController.php:330
+msgid "You has already registered!"
+msgstr ""
+
+#: Controller\RegistrationsController.php:386
+msgid "You must choose registration option."
+msgstr ""
+
+#: Controller\RegistrationsController.php:387
+msgid "Check for validation errors."
+msgstr ""
+
+#: Controller\RegistrationsController.php:509
+msgid "Invalid ID"
+msgstr ""
+
+#: Controller\RegistrationsController.php:519
+msgid "Registration was successful. <strong>Now you must to make the payment to ensure your entry.</strong>"
+msgstr ""
+
+#: Controller\RegistrationsController.php:544;583
+msgid "Welcome! See Instructions to Complete Your Registration"
+msgstr ""
+
+#: View\Elements\registration\form_part_registration.ctp:10
+msgid "Choose one option"
+msgstr ""
+
+#: View\Elements\registration\form_part_registration.ctp:30
+#: View\Emails\html\registration\welcome.ctp:15
+msgid "Prices and Deadlines"
+msgstr ""
+
+#: View\Elements\registration\form_part_registration_admin.ctp:24
+msgid "Registration Options"
+msgstr ""
+
+#: View\Elements\registration\form_part_registration_admin.ctp:24;29;34
+msgid "(choose an option)"
+msgstr ""
+
+#: View\Elements\registration\payment_status_report.ctp:3
+msgid "Summarized Payment Status Report"
+msgstr ""
+
+#: View\Exemptions\admin_index.ctp:7
+msgid "Allow"
+msgstr ""
+
+#: View\Exemptions\admin_index.ctp:12
+msgid "Deny"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:4
+msgid "Payment"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:28
+msgid "Items Purchased"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:29
+msgid "Registration at the <strong>%s</strong>"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:40
+msgid "Total Amount"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:43
+msgid "Your Registration Type is exempt. But you must show your receipt at the event site."
+msgstr ""
+
+#: View\Payments\profile_index.ctp:45
+msgid "Price valid up to"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:47;130;134
+msgid "at"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:73
+msgid "Undefined"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:74
+msgid "Probably the payment has not yet been started."
+msgstr ""
+
+#: View\Payments\profile_index.ctp:91
+msgid "Pay with PagSeguro"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:139
+msgid "You cannot pay for your registration now. The deadline for payment, with current price, expired. You can pay between %s and %s. The new price of your registration will be %s"
+msgstr ""
+
+#: View\Payments\profile_index.ctp:142
+msgid "You can no longer pay by the site. The deadline for payments expired. Please, contact the event organizers."
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:16
+#: View\RegistrationTypes\admin_add.ctp:3
+msgid "Add"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:23
+#: View\RegistrationPeriods\admin_edit.ctp:28
+msgid "Period Range"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:48
+#: View\RegistrationPeriods\admin_edit.ctp:56
+msgid "to"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:63
+#: View\RegistrationPeriods\admin_edit.ctp:74
+msgid "Values in Brazilian Real. Example: 150,00"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:76
+msgid "Main Registration. Prices for this period"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:85
+#: View\RegistrationPeriods\admin_edit.ctp:96
+#: View\RegistrationTypes\admin_add.ctp:19
+#: View\RegistrationTypes\admin_edit.ctp:21
+msgid "To be done in offline mode"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:90
+#: View\RegistrationPeriods\admin_edit.ctp:100
+#: View\RegistrationTypes\admin_add.ctp:37
+#: View\RegistrationTypes\admin_edit.ctp:39
+msgid "Save"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_add.ctp:91
+#: View\RegistrationPeriods\admin_edit.ctp:101
+#: View\RegistrationTypes\admin_add.ctp:38
+#: View\RegistrationTypes\admin_edit.ctp:40
+#: View\Registrations\admin_add.ctp:18
+#: View\Registrations\admin_edit.ctp:18
+#: View\Registrations\index.ctp:41
+msgid "Cancel"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_edit.ctp:19
+#: View\RegistrationTypes\admin_edit.ctp:3
+#: View\Registrations\admin_index.ctp:17
+msgid "Edit"
+msgstr ""
+
+#: View\RegistrationPeriods\admin_edit.ctp:89
+msgid "Main Registration"
+msgstr ""
+
+#: View\RegistrationTypes\admin_add.ctp:20
+#: View\RegistrationTypes\admin_edit.ctp:22
+msgid "If checked, this type of application can not be conducted through the site. Example: group entries."
+msgstr ""
+
+#: View\RegistrationTypes\admin_add.ctp:29
+#: View\RegistrationTypes\admin_edit.ctp:31
+msgid "Proof Needed"
+msgstr ""
+
+#: View\RegistrationTypes\admin_add.ctp:30
+#: View\RegistrationTypes\admin_edit.ctp:32
+msgid "If checked, the user must provide a document proving that belongs to this category."
+msgstr ""
+
+#: View\Registrations\admin_add.ctp:17
+msgid "Perform Register"
+msgstr ""
+
+#: View\Registrations\admin_edit.ctp:17
+msgid "Edit Register"
+msgstr ""
+
+#: View\Registrations\index.ctp:40
+msgid " Register"
+msgstr ""
+
+#: Model\Registration.php:validation for field registration_policy
+msgid "You have not accept Policy Terms."
+msgstr ""
+
+#: Model\RegistrationItem.php:validation for field registration_main_variation_id
+msgid "You have not selected your registration type."
+msgstr ""
+

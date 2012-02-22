@@ -1,0 +1,329 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-12-14 16:22-0800\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/EvaluationsController.php:33
+#: Controller/PapersController.php:513
+msgid "Evaluations"
+msgstr ""
+
+#: Controller/EvaluationsController.php:34
+#: Controller/PapersController.php:514
+#: View/Evaluations/profile_evaluate.ctp:63;66
+#: View/Papers/profile_evaluate.ctp:80;89
+msgid "Evaluation"
+msgstr ""
+
+#: Controller/EvaluationsController.php:51
+#: Controller/PapersController.php:62;662
+msgid "ID"
+msgstr ""
+
+#: Controller/EvaluationsController.php:52
+#: Controller/PapersController.php:63;663
+#: View/Papers/profile_add.ctp:115;167
+#: View/Papers/profile_edit.ctp:128;178
+msgid "Name"
+msgstr ""
+
+#: Controller/EvaluationsController.php:53
+#: Controller/PapersController.php:65;664
+#: View/Evaluations/profile_evaluate.ctp:15
+#: View/Papers/profile_add.ctp:32
+#: View/Papers/profile_edit.ctp:35
+#: View/Papers/profile_evaluate.ctp:57
+msgid "Paper Type"
+msgstr ""
+
+#: Controller/EvaluationsController.php:54
+#: Controller/PapersController.php:66;666
+msgid "Paper Status"
+msgstr ""
+
+#: Controller/EvaluationsController.php:135
+#: Controller/PapersController.php:603
+msgid "Invalid ID"
+msgstr ""
+
+#: Controller/EvaluationsController.php:220
+#: Controller/PapersController.php:324
+msgid "There is a new paper waiting for you evaluation"
+msgstr ""
+
+#: Controller/PapersController.php:33
+msgid "Paper"
+msgstr ""
+
+#: Controller/PapersController.php:34
+msgid "Papers"
+msgstr ""
+
+#: Controller/PapersController.php:96
+msgid "You have already exceeded the limit for submited papers. Each registered may submit up to two (2) proposals for workshop and two (2) proposals for short course."
+msgstr ""
+
+#: Controller/PapersController.php:196
+msgid "The author's and co-author's CPF or Passport can not be repeated."
+msgstr ""
+
+#: Controller/PapersController.php:350
+msgid "There are new papers waiting for you evaluation"
+msgstr ""
+
+#: Controller/PapersController.php:587
+msgid "Your Paper Has Been Evaluated"
+msgstr ""
+
+#: Controller/PapersController.php:625
+msgid "This Paper has been already evaluated"
+msgstr ""
+
+#: Controller/PapersController.php:665
+msgid "Paper Status ID"
+msgstr ""
+
+#: Controller/PapersController.php:688
+msgid "Error:"
+msgstr ""
+
+#: Controller/PapersController.php:713
+msgid "This Paper is Under Evaluation and can not be modified."
+msgstr ""
+
+#: Controller/PapersController.php:716
+msgid "This Paper has already been evaluated and can not be modified."
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:3
+#: View/Papers/profile_add.ctp:3
+#: View/Papers/profile_edit.ctp:3
+msgid "Submit"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:11
+#: View/Papers/profile_add.ctp:28
+#: View/Papers/profile_edit.ctp:31
+#: View/Papers/profile_evaluate.ctp:3
+msgid "Paper Information"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:19;23
+#: View/Papers/profile_add.ctp:40
+#: View/Papers/profile_edit.ctp:43
+#: View/Papers/profile_evaluate.ctp:8
+msgid "Title"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:32
+#: View/Papers/profile_add.ctp:60
+#: View/Papers/profile_edit.ctp:64
+#: View/Papers/profile_evaluate.ctp:68
+msgid "Research Line"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:37
+#: View/Evaluations/profile_index.ctp:6
+#: View/Papers/profile_evaluate.ctp:72;74
+#: View/Papers/profile_evaluations.ctp:12
+#: View/Papers/profile_index.ctp:12
+msgid "Download Paper"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:45
+#: View/Papers/profile_add.ctp:80
+#: View/Papers/profile_edit.ctp:94
+msgid "Authors and Co-Authors"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:48
+#: View/Papers/profile_add.ctp:88
+#: View/Papers/profile_edit.ctp:99
+#: View/Papers/profile_evaluate.ctp:19
+msgid "Author"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:54
+#: View/Papers/profile_add.ctp:127
+#: View/Papers/profile_edit.ctp:138
+#: View/Papers/profile_evaluate.ctp:34;38
+msgid "Co-Author"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:79
+#: View/Papers/profile_evaluate.ctp:102
+msgid "Comments"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:88
+#: View/Papers/profile_evaluate.ctp:107
+msgid "Submit Evaluation"
+msgstr ""
+
+#: View/Evaluations/profile_evaluate.ctp:89
+#: View/Papers/admin_assign.ctp:50
+#: View/Papers/profile_add.ctp:193
+#: View/Papers/profile_edit.ctp:205
+#: View/Papers/profile_evaluate.ctp:108
+msgid "Cancel"
+msgstr ""
+
+#: View/Evaluations/profile_index.ctp:11
+#: View/Papers/profile_evaluations.ctp:6
+msgid "Evaluate"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:3
+msgid "Assign Papers"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:21
+msgid "Each paper is already assigned to an appraiser"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:27
+msgid "There is"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:28
+msgid "1 paper not assigned to an appraiser"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:34
+msgid "There are"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:35
+msgid "%d papers not assigned to an appraiser"
+msgstr ""
+
+#: View/Papers/admin_assign.ctp:44
+msgid "Assign These Papers to Appraisers"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:6
+#: View/Papers/profile_edit.ctp:6
+msgid "<strong>Before you begin,</strong> make sure you are familiar with the following documents:"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:15
+#: View/Papers/profile_edit.ctp:15
+msgid "<strong>To be evaluated,</strong> your work MUST follow the format below. It is mandatory."
+msgstr ""
+
+#: View/Papers/profile_add.ctp:54
+#: View/Papers/profile_edit.ctp:58
+#: View/Papers/profile_evaluate.ctp:12
+msgid "Abstract"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:73
+#: View/Papers/profile_edit.ctp:77
+msgid "Paper File"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:74
+#: View/Papers/profile_edit.ctp:83
+msgid "Only Word 2003 (.doc) format file is allowed. Maximum allowed file size: %d mb<br> Remember, it's mandatory to follow the %s."
+msgstr ""
+
+#: View/Papers/profile_add.ctp:115;168
+#: View/Papers/profile_edit.ctp:128;179
+msgid "CPF or Passport"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:116;169
+#: View/Papers/profile_edit.ctp:129;180
+msgid "Ask for exemption"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:117
+msgid "Do not use punctuation in CPF or Passport, such as hyphen, points etc."
+msgstr ""
+
+#: View/Papers/profile_add.ctp:170
+#: View/Papers/profile_edit.ctp:130;181
+msgid "Do not use punctuation. You MUST tell us the CPF in order to ask for exemption."
+msgstr ""
+
+#: View/Papers/profile_add.ctp:185
+#: View/Papers/profile_edit.ctp:197
+msgid "Do not ask for exemption"
+msgstr ""
+
+#: View/Papers/profile_add.ctp:192
+#: View/Papers/profile_edit.ctp:204
+msgid "Submit Paper"
+msgstr ""
+
+#: View/Papers/profile_edit.ctp:80
+msgid "Download Current File"
+msgstr ""
+
+#: View/Papers/profile_evaluate.ctp:35
+msgid "There is no co-author."
+msgstr ""
+
+#: View/Papers/profile_evaluate.ctp:43
+msgid "Co-Authors"
+msgstr ""
+
+#: View/Papers/profile_index.ctp:6
+msgid "Evaluation Result"
+msgstr ""
+
+#: View/Papers/profile_index.ctp:17
+msgid "Edit"
+msgstr ""
+
+#: View/Papers/profile_index.ctp:23
+msgid "Delete"
+msgstr ""
+
+#: View/Papers/profile_index.ctp:26
+msgid "This action can not be undone! Are you sure?"
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Evaluation.php:validation for field comments
+msgid "You have not entered your comments."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field title
+msgid "You have not entered a title."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field abstract
+msgid "You have not entered an abstract."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field submittedfile
+msgid "This file format is not allowed."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field submittedfile
+msgid "You must upload a file."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field co_author_name_1;validation for field co_author_name_2;validation for field co_author_name_3;validation for field co_author_name_4
+msgid "Incomplete information. As you entered the Name, you must also inform the CPF and vice versa."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field co_author_main_doc_1;validation for field co_author_main_doc_2;validation for field co_author_main_doc_3;validation for field co_author_main_doc_4
+msgid "Please supply your CPF only with numbers."
+msgstr ""
+
+#: /Applications/XAMPP/xamppfiles/htdocs/eventos-sa/app/Plugin/Paper/Model/Paper.php:validation for field co_author_main_doc_1;validation for field co_author_main_doc_1;validation for field co_author_main_doc_2;validation for field co_author_main_doc_2;validation for field co_author_main_doc_3;validation for field co_author_main_doc_3;validation for field co_author_main_doc_4;validation for field co_author_main_doc_4
+msgid "Inform the CPF with 11 digits."
+msgstr ""
+
