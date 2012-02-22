@@ -1,7 +1,7 @@
 <div class="topbar">
 	<div class="topbar-inner">
 		<div class="container-fluid">
-			<a class="brand" href="#"><?php print Configure::read('SiteTitle'); ?></a>
+			<a class="brand" href="/"><?php print Configure::read('SiteTitle'); ?></a>
 			<!-- <ul class="nav">
 					        <li class="active"><a href="#">Home</a></li>
 					        <li>

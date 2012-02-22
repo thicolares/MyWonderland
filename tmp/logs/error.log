@@ -20974,3 +20974,9 @@ Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 89
 2012-02-20 09:51:34 Error: [MissingControllerException] Controller class ImgController could not be found.
 #0 /applications/xampp/xamppfiles/htdocs/protocolos/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-02-22 14:55:33 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /applications/xampp/xamppfiles/htdocs/mywonderland/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-22 14:55:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /applications/xampp/xamppfiles/htdocs/mywonderland/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

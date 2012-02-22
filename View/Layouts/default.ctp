@@ -62,12 +62,10 @@
 					<a class="brand" href="/">
 					  <?php print Configure::read('SiteTitle'); ?>
 					</a>
-			      	<ul class="nav">
+			      	<!-- <ul class="nav">
+					  <li><a href="/pages/about">About</a></li>
 
-						<li><a href="/">Home</a></li>
-					  <li><a href="#">About</a></li>
-
-					</ul>
+					</ul> -->
 			    </div>
 			  </div>
 			</div>
@@ -77,8 +75,12 @@
                echo $content_for_layout;
             ?>
 			
+	      <hr>
+
+	
+	
 	      <footer>
-	        <p>&copy; Company 2012</p>
+	        <!-- <p>&copy; Company 2012</p> -->
 	      </footer>
 	
 	    </div> <!-- /container -->
