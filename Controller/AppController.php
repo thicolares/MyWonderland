@@ -42,6 +42,7 @@ class AppController extends Controller {
         'Html',
 		'Time',
         'Form',
+		'BForm',
         'Session',
         'Text',
         'Js',
