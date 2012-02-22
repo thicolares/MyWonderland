@@ -83,7 +83,7 @@
 			
 			<div class="row">
 				<div class="span5">
-					<i class="icon-time"></i> <em>Version 0.1.0b</em> <?php print $this->Html->link('MyWonderland at GitHub', 'https://github.com/colares/MyWonderland'); ?>
+					<i class="icon-time"></i> <em>Version <?php print Configure::read('Version'); ?></em> <?php print $this->Html->link('MyWonderland at GitHub', 'https://github.com/colares/MyWonderland'); ?>
 				</div>
 			</div>
 			

@@ -346,9 +346,9 @@ Cache::config('_cake_array_', array(
 Configure::write('PageSize', 25);
 
 Configure::write('SiteTitle', 'My Wonderland');
-Configure::write('EventTitle', 'VII Fórum Brasileiro de Educação Ambiental');
 Configure::write('ContactUsURL', 'http://viiforumeducacaoambiental.org.br/contato/');
 Configure::write('NoReplyEmail', 'no-reply@viiforumeducacaoambiental.org.br');
+Configure::write('Version', '0.1.0b');
 
 // PaperSubmissionLimitDate
 Configure::write('PaperSubmissionLimitDate', mktime(23, 59, 59, 1, 25, 2012));
