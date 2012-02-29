@@ -65,7 +65,7 @@ Cache::config('default', array('engine' => 'File'));
  */
 
 //CakePlugin::load('AclExtras');
-CakePlugin::load('Facebook');
+//CakePlugin::load('Facebook');
 //CakePlugin::load('Acl', array('bootstrap' => true));
 CakePlugin::load('Quiz', array('routes' => true));
 
